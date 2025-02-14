@@ -12,7 +12,7 @@ Right now it can predict and analyze the drug information and drug interaction a
 
 
 **Installation** 📥
-.
+
 pip install -r requirements.txt 
 
 
@@ -25,8 +25,8 @@ pip install -r requirements.txt
 
 
 Add your API keys to .env:
-.
-**GROQ_API_KEY=your_groq_api_key_here ** 
+
+**GROQ_API_KEY=your_groq_api_key_here** 
 
 
 
@@ -37,7 +37,7 @@ Add your API keys to .env:
 
 
 **Usage** 🚀
-.
+
 Interact via command line or integrate into apps. Example queries:
 Healthcare: “Side effects of Fluconazole for a 25-year-old?”
 Career: “How to transition into AI roles as a software engineer?”
@@ -51,7 +51,7 @@ Education: “Explain quantum computing in simple terms.”
 
 
 **Customization** 🛠️
-.
+
 Add new domains (e.g., legal, finance).
 Improve RAG with updated datasets.
 Enhance UI for web/mobile apps.
@@ -60,6 +60,5 @@ Enhance UI for web/mobile apps.
 
 
 **Contributing**🤝
-.
 Contributions welcome! Fork, create a branch, and submit a PR.
 
