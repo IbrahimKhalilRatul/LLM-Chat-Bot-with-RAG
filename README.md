@@ -5,8 +5,21 @@ Right now it can predict and analyze the drug information and drug interaction a
 
 
 
+
+
+
+
+
+
 **Installation** 📥
 pip install -r requirements.txt 
+
+
+
+
+
+
+
 
 
 
@@ -15,11 +28,22 @@ Add your API keys to .env:
 
 
 
+
+
+
+
+
+
 **Usage** 🚀
 Interact via command line or integrate into apps. Example queries:
 Healthcare: “Side effects of Fluconazole for a 25-year-old?”
 Career: “How to transition into AI roles as a software engineer?”
 Education: “Explain quantum computing in simple terms.”
+
+
+
+
+
 
 
 
