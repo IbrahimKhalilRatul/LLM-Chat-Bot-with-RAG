@@ -4,12 +4,15 @@ This project is an LLM-powered chatbot that provides personalized, context-aware
 Right now it can predict and analyze the drug information and drug interaction as well as suggestions. 
 
 
+
 **Installation** 📥
 pip install -r requirements.txt 
 
 
 
+
 **GROQ_API_KEY=your_groq_api_key_here ** 
+
 
 
 **Usage** 🚀
@@ -19,6 +22,7 @@ Career: “How to transition into AI roles as a software engineer?”
 Education: “Explain quantum computing in simple terms.”
 
 
+
 **Customization** 🛠️
 Add new domains (e.g., legal, finance).
 Improve RAG with updated datasets.
@@ -26,7 +30,7 @@ Enhance UI for web/mobile apps.
 
 
 
-**Contributing **🤝
 
+**Contributing**🤝
 Contributions welcome! Fork, create a branch, and submit a PR.
 
